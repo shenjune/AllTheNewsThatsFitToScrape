@@ -1,0 +1,2 @@
+# AllTheNewsThatsFitToScrape
+MongoDB news application
